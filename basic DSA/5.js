@@ -1,0 +1,1 @@
+// 5. Count Multiples: Count how many numbers between 1 and $N$ are perfectly divisible by a user-specified divisor $K$.

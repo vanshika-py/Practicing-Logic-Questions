@@ -2,15 +2,12 @@
 
 
 function test(Char){
-    let n = 10; 
-    for(let i = 1; i<= n; i++){
         if(Char%2 === 0){
-            console.log("even")
+          console.log("even")
         } else {
-            console.log("odd")
+           console.log("odd")
         }
     }
-}
+test(205);
 
-test(10);
 
