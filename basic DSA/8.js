@@ -11,17 +11,17 @@
 
 
 
-let result = 1; 
+// let result = 1; 
 
 
-function power(a,b){
-    for(let i = 1; i <= b; i++){
-        result*= a
-    }
-    console.log(result)
-}
+// function power(a,b){
+//     for(let i = 1; i <= b; i++){
+//         result*= a
+//     }
+//     console.log(result)
+// }
 
-power(10,3);
+// power(10,3);
 
 
 
