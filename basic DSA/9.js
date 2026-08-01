@@ -9,13 +9,13 @@
 // }
 
 
-function num(n){
+// function num(n){
 
-    for(let i = 1; i <= n; i++){
-        if(n%i === 0){
-            console.log(i)
-        }
-    }
-}
+//     for(let i = 1; i <= n; i++){
+//         if(n%i === 0){
+//             console.log(i)
+//         }
+//     }
+// }
 
-num(25);
+// num(25);

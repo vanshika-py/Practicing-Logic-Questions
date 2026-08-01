@@ -37,14 +37,14 @@
 
 
 
-let str = "vanshika";
+// let str = "vanshika";
 
-let result = str.includes("a" || "e" || "i" || "o" || "u");
-let count = 0; 
+// let result = str.includes("a" || "e" || "i" || "o" || "u");
+// let count = 0; 
 
 
-for(let i = 0; i <= str.length-1; i++){
+// for(let i = 0; i <= str.length-1; i++){
     
-}
+// }
     
 
