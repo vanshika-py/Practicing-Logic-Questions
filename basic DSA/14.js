@@ -1,0 +1,1 @@
+// 14. Find First Occurrence: Return the index of the very first time a specific character appears in a string. Return -1 if not found.

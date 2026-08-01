@@ -22,31 +22,31 @@ Focus: Mastering simple loops, basic arithmetic operators, and core control flow
 *## Phase 2: String Manipulation & Character Scoping*
 Focus: Transitioning from numbers to sequential memory blocks, indexing, and text handling.
 
-   1. Length of a String: Calculate the total number of characters in a string without using the built-in .length property.
-   2. Count Vowels and Consonants: Iterate through a string and count how many characters are vowels vs. consonants.
-   3. Character Frequency (Targeted): Count how many times one specific character $C$ appears inside a given string.
-   4. Find First Occurrence: Return the index of the very first time a specific character appears in a string. Return -1 if not found.
-   5. Convert Case Manually: Convert a lowercase string to uppercase without using built-in language methods like .toUpperCase().
-   6. String Reversal: Take a string and return its characters completely backwards using a secondary storage variable.
-   7. Palindrome String: Check if a string reads the exact same forward and backward (e.g., "radar").
-   8. Remove Spaces: Strip away all whitespace characters from a string, joining the remaining words into a single block.
-   9. Extract Digits: Parse an alphanumeric string and extract only the numerical characters into a brand-new string.
-   10. Substrings Check: Check if a small target word exists inside a larger sentence using basic indexing loops. [7, 8, 9, 10, 11] 
+   11. Length of a String: Calculate the total number of characters in a string without using the built-in .length property.
+   12. Count Vowels and Consonants: Iterate through a string and count how many characters are vowels vs. consonants.
+   13. Character Frequency (Targeted): Count how many times one specific character $C$ appears inside a given string.
+   14. Find First Occurrence: Return the index of the very first time a specific character appears in a string. Return -1 if not found.
+   15. Convert Case Manually: Convert a lowercase string to uppercase without using built-in language methods like .toUpperCase().
+   16. String Reversal: Take a string and return its characters completely backwards using a secondary storage variable.
+   17. Palindrome String: Check if a string reads the exact same forward and backward (e.g., "radar").
+   18. Remove Spaces: Strip away all whitespace characters from a string, joining the remaining words into a single block.
+   19. Extract Digits: Parse an alphanumeric string and extract only the numerical characters into a brand-new string.
+   20. Substrings Check: Check if a small target word exists inside a larger sentence using basic indexing loops. [7, 8, 9, 10, 11] 
 
 ------------------------------
 *## Phase 3: Array Traversal, Search & Basic Filtering*
 Focus: Managing contiguous memory collections, boundaries, and element mapping.
 
-   1. Sum of Array Elements: Traverse a one-dimensional array of numbers and calculate the total combined sum.
-   2. Find Maximum Value: Find and return the largest single numerical element within an unsorted array.
-   3. Find Minimum Value: Find and return the smallest single numerical element within an unsorted array.
-   4. Average of Array: Calculate the mathematical average of an array. Ensure you handle floating-point decimals correctly.
-   5. Linear Search: Search an array sequentially for an element $X$. Return its position index if found, or -1 if missing.
-   6. Count Element Occurrences: Count exactly how many times a value $X$ appears inside an unsorted array.
-   7. Check for Sorted Array: Check an array from left to right to determine if it is sorted in ascending order.
-   8. Reverse an Array: Reverse the order of elements in an array by populating a new, separate array.
-   9. Array In-Place Reversal: Reverse the elements of an array without creating a second array, swapping elements within the original memory.
-   10. Filter Even Numbers: Take an array of integers and extract only the even numbers into a brand-new filtered array.
+   21. Sum of Array Elements: Traverse a one-dimensional array of numbers and calculate the total combined sum.
+   22. Find Maximum Value: Find and return the largest single numerical element within an unsorted array.
+   23. Find Minimum Value: Find and return the smallest single numerical element within an unsorted array.
+   24. Average of Array: Calculate the mathematical average of an array. Ensure you handle floating-point decimals correctly.
+   25. Linear Search: Search an array sequentially for an element $X$. Return its position index if found, or -1 if missing.
+   26. Count Element Occurrences: Count exactly how many times a value $X$ appears inside an unsorted array.
+   27. Check for Sorted Array: Check an array from left to right to determine if it is sorted in ascending order.
+   28. Reverse an Array: Reverse the order of elements in an array by populating a new, separate array.
+   29. Array In-Place Reversal: Reverse the elements of an array without creating a second array, swapping elements within the original memory.
+   30. Filter Even Numbers: Take an array of integers and extract only the even numbers into a brand-new filtered array.
 
 ------------------------------
 *## Phase 4: Intermediate Array Mechanics & Multi-Element Logic*
