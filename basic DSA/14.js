@@ -18,13 +18,13 @@
 // return -1;
 // }
 
- function find(str, target){
-    for(let i = 0; i < str.length; i++){
-        if(str[i] === target)
-            return i
-    }
-     return -1 
-   }
+//  function find(str, target){
+//     for(let i = 0; i < str.length; i++){
+//         if(str[i] === target)
+//             return i
+//     }
+//      return -1 
+//    }
  
 
-  console.log(find("vanshina", "p"));
+//   console.log(find("vanshina", "p"));
