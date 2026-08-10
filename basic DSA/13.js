@@ -1,17 +1,19 @@
 //   13. Character Frequency (Targeted): Count how many times one specific character $C$ appears inside a given string.
 
 
-let str = "Ananya";
-let char = "a";
-let count = 0; 
+// let str = "Ananya";
+// let char = "a";
+// let count = 0; 
 
-for(let i = 0;
-     i < str.length; i++){
-if(str[i].toLowerCase() === char.toLowerCase()){
-    count++
-}
-}
-console.log(count);
+// for(let i = 0;
+//      i < str.length; i++){
+// if(str[i].toLowerCase() === char.toLowerCase()){
+//     count++
+// }
+// }
+// console.log(count);
+
+
 
 
 
